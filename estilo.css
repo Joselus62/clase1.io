@@ -1,0 +1,4 @@
+.flex-container{display: flex;flex-wrap: wrap; padding-left: 20%;
+    color:darkblue;font-style: italic;}
+main{padding-left: 10%;}
+.descripcion{text-align: center; font-size: larger; color: darkblue; font-style: italic;}
